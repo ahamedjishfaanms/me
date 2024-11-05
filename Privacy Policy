@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="img/favicon.png" type="image/png">
+        <title>Privacy Policy - Ahamed Jishfaan</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="vendors/linericon/style.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="vendors/animate-css/animate.css">
+        <!-- main css -->
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+        
+        <!--================Header Menu Area =================-->
+        <header class="header_area">
+            <div class="main_menu" id="mainNav">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <div class="container box_1620">
+                        <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+                            <ul class="nav navbar-nav menu_nav ml-auto">
+                                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li> 
+                                <li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li>
+                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="privacy-policy.html">Privacy Policy</a></li>
+                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                            </ul>
+                        </div> 
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!--================Header Menu Area =================-->
+        
+        <!--================Privacy Policy Banner Area =================-->
+        <section class="banner_area">
+            <div class="banner_inner d-flex align-items-center">
+                <div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
+                <div class="container">
+                    <div class="banner_content text-center">
+                        <h2>Privacy Policy</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="privacy-policy.html">Privacy Policy</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Privacy Policy Banner Area =================-->
+        
+        <!--================Privacy Policy Content Area =================-->
+        <section class="privacy_policy_area p_120">
+            <div class="container">
+                <h3>Privacy Policy</h3>
+                <p>Last Updated: [Insert Date]</p>
+                
+                <h4>1. Information We Collect</h4>
+                <p>We collect two types of information:</p>
+                <ul>
+                    <li><strong>Personal Information:</strong> Details like your name, email address, and phone number when you voluntarily submit them through forms on our website (e.g., contact form, newsletter sign-up).</li>
+                    <li><strong>Non-Personal Information:</strong> Information about your device, browsing actions, and patterns, including IP address, browser type, and pages visited.</li>
+                </ul>
+                
+                <h4>2. How We Use Your Information</h4>
+                <p>We use the collected information to:</p>
+                <ul>
+                    <li>Respond to your inquiries or requests.</li>
+                    <li>Improve our website and its content.</li>
+                    <li>Analyze website performance and user behavior for improvement.</li>
+                    <li>Send you updates or newsletters if you've subscribed.</li>
+                </ul>
+                
+                <h4>3. Cookies and Web Beacons</h4>
+                <p>Our website uses <strong>cookies</strong> to enhance your user experience. Cookies are small data files stored on your device that help us:</p>
+                <ul>
+                    <li>Recognize returning users.</li>
+                    <li>Track website traffic and usage patterns.</li>
+                    <li>Customize your browsing experience based on preferences.</li>
+                </ul>
+                <p>You can control or disable cookies through your browser settings. However, disabling cookies may impact certain functionalities of our website.</p>
+                
+                <h4>4. Google AdSense and DoubleClick DART Cookie</h4>
+                <p>We use <strong>Google AdSense</strong> on our website to serve advertisements. Google may use the <strong>DoubleClick DART Cookie</strong> to show you ads based on your visit to our site and other sites on the internet. This cookie does not collect personal information, such as your name or email.</p>
+                <p>You can opt out of the use of the DART cookie by visiting the <a href="https://policies.google.com/technologies/ads">Google ad and content network privacy policy</a>.</p>
+                
+                <h4>5. Third-Party Privacy Policies</h4>
+                <p>Our Privacy Policy does not apply to third-party websites or advertisers. We advise you to review the Privacy Policies of these third-party services. Some of our advertising partners may use cookies and web beacons on our site.</p>
+                
+                <h4>6. Data Security</h4>
+                <p>We implement industry-standard security measures to protect your information. However, please note that no online platform is entirely secure, and we cannot guarantee the absolute security of your data.</p>
+                
+                <h4>7. Children's Privacy</h4>
+                <p>Our website is not intended for children under the age of 13. We do not knowingly collect personal information from children. If we discover any information from children under 13 has been collected without parental consent, we will delete it promptly.</p>
+                
+                <h4>8. Your Consent</h4>
+                <p>By using our website, you consent to our Privacy Policy.</p>
+                
+                <h4>9. Changes to This Privacy Policy</h4>
+                <p>We may update our Privacy Policy periodically. Any changes will be posted on this page, and the “Last Updated” date will be revised accordingly.</p>
+                
+                <h4>10. Contact Us</h4>
+                <p>If you have questions or concerns regarding our Privacy Policy, please contact us at:</p>
+                <ul>
+                    <li><strong>Website:</strong> <a href="https://ahamedjishfaan.me/">https://ahamedjishfaan.me/</a></li>
+                    <li><strong>Email:</strong> <a href="mailto:ahamedjishfaan@gmail.com">ahamedjishfaan@gmail.com</a></li>
+                    <li><strong>Phone:</strong> +971 58 262 3031</li>
+                </ul>
+            </div>
+        </section>
+        <!--================End Privacy Policy Content Area =================-->
+        
+        <!--================Footer Area =================-->
+        <footer class="footer_area p_120">
+            <div class="container">
+                <div class="row footer_inner">
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget ab_widget">
+                            <div class="f_title">
+                                <h3>About Me</h3>
+                            </div>
+                            <p>Dedicated Mechanical Engineer with a passion for efficiency and innovation. Reach out to learn more about my work and projects!</p>
+                        </aside>
+                    </div>
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget news_widget">
+                            <div class="f_title">
+                                <h3>Newsletter</h3>
+                            </div>
+                            <p>Stay updated with the latest trends in engineering and technology.</p>
+                            <div id="mc_embed_signup">
+                                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
+                                    <div class="input-group d-flex flex-row">
+                                        <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
+                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>        
+                                    </div>                
+                                    <div class="mt-10 info"></div>
+                                </form>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="col-lg-2">
+                        <aside class="f_widget social_widget">
+                            <div class="f_title">
+                                <h3>Follow Me</h3>
+                            </div>
+                            <p>Let's connect on social media</p>
+                            <ul class="list">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-github"></i></a></li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 text-center mt-4">
+                        <p>Copyright &copy;2024 All rights reserved | Ahamed Jishfaan</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--================End Footer Area =================-->
+        
+    </body>
+</html>
